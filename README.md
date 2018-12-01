@@ -1,2 +1,3 @@
-# mifos-pay-app-design
-UI/UX for MifosPay app
+# UI/UX for MifosPay app
+
+![preview](./preview.jpg)
