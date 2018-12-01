@@ -1,3 +1,3 @@
 # UI/UX for MifosPay app
 
-![preview](./preview.jpg)
+![preview](./preview.png)
